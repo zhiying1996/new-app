@@ -1,0 +1,29 @@
+[
+  {
+    "style":"平板",
+  "tit":"http://image.huodao.hk/img_assortment_banner_iphone.png",
+  "img":[
+   "http://image.huodao.hk/model_url/a2e827c45bc053eb3137296ca9024994.png",
+   "http://image.huodao.hk/model_url/a9bd98763569c454311b69d932a5b360.png",
+   "http://image.huodao.hk/model_url/ba9d0b7ab091669377d866598700a02a.png",
+   "http://image.huodao.hk/model_url/d96f3f1f611cb6d86e25bc45b807b3f7.png",
+   "http://image.huodao.hk/model_url/04576e1761c664440d9e501115865732.png",
+   "http://image.huodao.hk/model_url/27dda6fa23d18ec8d86221545c9bda38.png"
+ ],
+  "branch":["iphonex","iphone8","iphone8plus","iphonex","iphone8","iphone8plus"]
+},
+  {
+    "style":"安卓专区",
+    "tit":"http://image.huodao.hk/img_assortment_banner_android.png",
+    "img":[
+      "http://image.huodao.hk/zlj_oppo_brand_img_v1.png",
+      "http://image.huodao.hk/zlj_vivo_brand_img_v1.png",
+      "http://image.huodao.hk/zlj_huawei_brand_img_v1.png",
+      "http://image.huodao.hk/zlj_xiaomi_brand_img_v1.png",
+      "http://image.huodao.hk/zlj_1jia_brand_img_v1.png",
+      "http://image.huodao.hk/zlj_samsung_brand_img_v1.png"
+    ],
+    "branch":["oppo","vivo","huawei","xiaomi","1jia","samsung"]
+  }
+]
+
